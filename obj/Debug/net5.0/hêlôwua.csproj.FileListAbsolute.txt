@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\bin\Debug\net5.0\hêlôwua.exe
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\bin\Debug\net5.0\hêlôwua.deps.json
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\bin\Debug\net5.0\hêlôwua.runtimeconfig.json
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\bin\Debug\net5.0\hêlôwua.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\bin\Debug\net5.0\hêlôwua.dll
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\bin\Debug\net5.0\ref\hêlôwua.dll
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\bin\Debug\net5.0\hêlôwua.pdb
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.AssemblyInfo.cs
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.dll
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\ref\hêlôwua.dll
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.pdb
+C:\Users\DELL\source\repos\hêlôwua\hêlôwua\obj\Debug\net5.0\hêlôwua.genruntimeconfig.cache
